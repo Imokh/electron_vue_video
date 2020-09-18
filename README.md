@@ -8,7 +8,7 @@
 # install dependencies
 npm install electron-vue-video
 或
-yarn addelectron-vue-video
+yarn add electron-vue-video
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
